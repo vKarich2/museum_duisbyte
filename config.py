@@ -25,7 +25,7 @@ PRICES = {
     "child_half": 2.50,
     "child_full": 5.00,
     "youth_half": 3.50,
-    "youth_full": frighten6.00,
+    "youth_full": 6.00,
     "adult_premium_half": 3.00,
     "adult_premium_full": 6.00,
     "adult_basic_half": 4.00,
