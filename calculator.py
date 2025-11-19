@@ -11,7 +11,8 @@
 from config import PRICES, CHILD_MAX_AGE, YOUTH_MAX_AGE
 from utils import TicketType, MembershipType
 
-# Diese Funktion berechnet den Preis basierend auf Alter, Tickettyp, Mitgliedschaft und Sektoption.
+# Diese Funktion berechnet den Preis basierend 
+# auf Alter, Tickettyp, Mitgliedschaft und Sektoption.
 def get_price(age: int, ticket_type: TicketType, membership=None, champange=False) -> float:
 
 	# Kinder bis 13 Jahre
