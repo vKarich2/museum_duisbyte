@@ -28,10 +28,10 @@ def get_category(age: int, ticket_type: TicketType, membership, champagne: bool,
 		else:
 			key = f"adult_none_{suffix}"
 
-		text = CATEGORIES[lang][key]
+	text = CATEGORIES[lang][key]
 
-		if champagne and membership == MembershipType.PREMIUM:
-			text += CATEGORIES[lang]["champagne"]
+	if champagne and membership == MembershipType.PREMIUM:
+		text += CATEGORIES[lang]["champagne"]
 
-		return text
+	return text
 
