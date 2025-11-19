@@ -80,3 +80,33 @@ TEXTS = {
         "bye": "Thank you and enjoy the museum!"
     }
 }
+
+# Kategorienbezeichnungen in Deutsch und Englisch
+CATEGORIES = {
+		"DE": {
+        "child_half": "Kinderpreis (halber Tag)",
+        "child_full": "Kinderpreis (ganzer Tag)",
+        "youth_half": "Jugendpreis (halber Tag)",
+        "youth_full": "Jugendpreis (ganzer Tag)",
+        "adult_premium_half": "Premium-Mitglied (halber Tag)",
+        "adult_premium_full": "Premium-Mitglied (ganzer Tag)",
+        "adult_basic_half": "Basis-Mitglied (halber Tag)",
+        "adult_basic_full": "Basis-Mitglied (ganzer Tag)",
+        "adult_none_half": "Normalpreis (halber Tag)",
+        "adult_none_full": "Normalpreis (ganzer Tag)",
+        "champagne": " + Glas Sekt"
+    },
+    "EN": {
+        "child_half": "Child (half day)",
+        "child_full": "Child (full day)",
+        "youth_half": "Youth (half day)",
+        "youth_full": "Youth (full day)",
+        "adult_premium_half": "Premium Member (half day)",
+        "adult_premium_full": "Premium Member (full day)",
+        "adult_basic_half": "Basic Member (half day)",
+        "adult_basic_full": "Basic Member (full day)",
+        "adult_none_half": "Regular price (half day)",
+        "adult_none_full": "Regular price (full day)",
+        "champagne": " + Glass of champagne"
+	}
+}
