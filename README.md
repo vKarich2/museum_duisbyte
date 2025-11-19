@@ -1,5 +1,7 @@
 # Museum Duisbyte – Ticketpreis-Rechner
 
+---
+
 ## Funktionen
 
 - Unterstützt **Deutsch und Englisch**  
@@ -37,4 +39,5 @@
 > **+ Glas Sekt** (nur für Premium-Mitglieder) → **+0,75 €**
 
 ---
+
 
